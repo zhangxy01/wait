@@ -263,7 +263,7 @@ function install_ss(){
         echo -e "混淆方式: \033[41;37m http_simple \033[0m"
         echo -e "加密方法: \033[41;37m rc4-md5 \033[0m"
         echo
-        echo "欢迎访问奔放网:http://ben123.pw"
+        echo "欢迎访问奔放网:http://benfw.cn"
         echo "修改多用户端口请参考:"
         echo "https://github.com/breakwa11/shadowsocks-rss/wiki/Server-Setup"
         echo
