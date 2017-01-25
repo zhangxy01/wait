@@ -282,7 +282,7 @@ function install_ss(){
         echo -e "本地端口: \033[41;37m 1080 \033[0m"
         echo -e "协议: \033[41;37m auth_sha1 \033[0m"
         echo -e "混淆方式: \033[41;37m http_simple \033[0m"
-        echo -e "加密方法: \033[41;37m rc4-md5 \033[0m"
+        echo -e "加密方法: \033[41;37m chacha20 \033[0m"
         echo
         echo "欢迎访问奔放网:http://benfw.cn"
         echo "基于shadowsocks.be的脚本修改版"
